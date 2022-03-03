@@ -6,7 +6,7 @@ Yasmine Navisha Andhani
 2141720047
 
 # 2.2 Deklarasi Class, Atribut dan Method
-  <img src="J2 (2.2).png"> <p>
+  <img src="J2 (2.2).PNG"> <p>
 
 # 2.2.1 Langkah-langkah percobaan
 1. Buat Project baru, dengan nama StrukturData. Buat paket dengan nama minggu2, buatlah class 
